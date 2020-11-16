@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
 -->
 
-- 🔭 I’m currently building a no-code demo platform @Reprise. I'm their first employee! We just raised $3.2 millions!!!
-- 🌱 I'm also doing my Master's in Computer Science @Penn, part-time and serving as a Co-Director for the Education & Learning Committee @MOSA.
+- 🔭 I’m currently building a no-code demo platform @Reprise. I'm their first full-time employee! We just raised $3.2 millions!!!
+- 🌱 I'm also doing my Master's in Computer Science @Penn (part-time) and serving as a Co-Director for the Education & Learning Committee @MOSA.
 - 👯 I’m looking to collaborate on anything. I love tinkering and making honest mistakes.
 - 💬 Ask me about how I pivoted from Mechanical to Software Engineering. 
 - 📫 How to reach me: www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
