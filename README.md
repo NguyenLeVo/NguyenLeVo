@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
 -->
 
-- 🔭 I worked at Reprise building a no-code demo creation platform! Looking for new opportunities!
+- 🔭 I'm currently working at DaVita building a Learning Management System.
 - 🌱 I'm also doing my Master's in Computer Science @Penn (part-time) and serving as a Co-Director for the Education & Learning Committee @MOSA.
 - 👯 I’m looking to collaborate on anything. I love tinkering and making honest mistakes.
 - 📫 How to reach me: www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
