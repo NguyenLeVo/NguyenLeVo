@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
 -->
 
-- 🔭 I'm currently working at DaVita building a Learning Management System.
+- 🔭 I'm currently working at DaVita intergrating a Learning Management System (LMS) into their proprietary Electronic Health Record (EHR) system.
 - 🌱 I'm also doing my Master's in Computer Science @Penn (part-time) and serving as a Co-Director for the Education & Learning Committee @MOSA.
 - 👯 I’m looking to collaborate on anything. I love tinkering and making honest mistakes.
 - 📫 How to reach me: www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
