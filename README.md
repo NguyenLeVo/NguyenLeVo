@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
 -->
 
-- 🔭 I'm currently working at Telepharm team from Cardinal Health ^_^
-- 🌱 I'm also doing my Master's in Computer Science @Penn and serving as the President @MOSA.
+- 🔭 I'm currently building the web and mobile telepharmacy platform at Telepharm (Cardinal Health) ^_^
+- 🌱 I'm finishing my Master's in Computer Science @Penn December 2022.
 - 👯 I’m looking to collaborate on anything. I love tinkering and making honest mistakes.
 - 🌱 Please DM for my resume and private repos ^^
 - 📫 How to reach me: www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu
