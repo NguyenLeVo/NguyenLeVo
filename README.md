@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm currently building the web and mobile telepharmacy platform at Cardinal Health ^_^
+- 🔭 I'm currently building the web and mobile telepharmacy platforms at Cardinal Health ^_^
 - 👯 I love the struggle of learning and building new things
-- 📫 Please reach me @ www.linkedin.com/in/nguyenlevo & nlvo@seas.upenn.edu for my resume or private repos
+- 🚢 My daily commits are on my work account :) This is mostly for one-off learning projects.
+- 📫 Please reach me www.linkedin.com/in/nguyenlevo & nguyen.vole1006@gmail.com for my resume or private repos
